@@ -2,7 +2,7 @@
 
 My first simple web application in Codeigniter 3.
 
-Demo : <a href="http://pulsa.bodyfitstation.com/admin/auth</a>
+Demo : <a href="http://pulsa.bodyfitstation.com/admin/auth">http://pulsa.bodyfitstation.com/admin/auth</a>
 
 ## Installation
 
